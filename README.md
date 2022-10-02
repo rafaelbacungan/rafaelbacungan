@@ -1,6 +1,6 @@
 # Rafael Bacungan
 
-**`Full-Stack Developer trying to be unconventional`**
+**`Just trying to be unconventional`**
 
 <p>I'm a full-stack developer by trade who's been exposed to various work environments from corporations, to startups. While still being young in my career, as well as being inherently curious, I try to continuously improve my skills as a developer by creating projects and solutions utilizing both in-demand and emerging technologies.</p>
 
