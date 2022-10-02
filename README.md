@@ -2,12 +2,12 @@
 
 **`Full-Stack Developer, aspiring innovator, slowly working towards becoming a leader`**
 
-I'm a full-stack developer by trade who's been exposed to various work environments from corporations, to startups. While still being young in my career, as well as being inherently curious, I try to continuously improve my skills as a developer by creating projects and solutions utilizing both in-demand and emerging technologies.
+<p>I'm a full-stack developer by trade who's been exposed to various work environments from corporations, to startups. While still being young in my career, as well as being inherently curious, I try to continuously improve my skills as a developer by creating projects and solutions utilizing both in-demand and emerging technologies.</p>
 ---
 
 #
 
-## ⚙️ Tools and Technologies
+### ⚙️ Tools and Technologies
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -24,6 +24,7 @@ I'm a full-stack developer by trade who's been exposed to various work environme
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<br />
 
-### Stats
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbacungan)](https://github.com/rafaelbacungan/github-readme-stats)
+### 📉 Stats
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbacungan&show_icons=true&theme=nord)]
