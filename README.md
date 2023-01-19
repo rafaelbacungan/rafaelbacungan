@@ -22,4 +22,4 @@
 <br />
 
 ### 📉 Stats
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbacungan&show_icons=true&theme=nord&count_private=true)
+<!-- ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbacungan&show_icons=true&theme=nord&count_private=true) -->
