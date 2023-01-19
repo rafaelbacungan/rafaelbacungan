@@ -21,5 +21,5 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br />
 
-### 📉 Stats
+<!-- ### 📉 Stats -->
 <!-- ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbacungan&show_icons=true&theme=nord&count_private=true) -->
