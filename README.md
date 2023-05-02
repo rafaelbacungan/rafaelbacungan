@@ -1,6 +1,6 @@
 # Rafael Bacungan
 
-<p>I'm a full-stack developer by trade who's been exposed to various work environments from corporations, to startups. While still being young in my career, as well as being inherently curious, I try to continuously improve my skills as a developer by creating projects and solutions utilizing both in-demand and emerging technologies.</p>
+<p>I'm a full-time <s>spaghetti chef</s> Software Engineer specializing in Full-Stack development. I've been exposed to various work environments from corporations, to startups. While still I'm young in my career, on top of being inherently curious, I try to continuously improve my skills as a developer by creating projects and solutions utilizing both in-demand and emerging technologies. You know, the usual self improvement stuff that devs do.</p>
 
 #
 
@@ -21,5 +21,7 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br />
 
-<!-- ### 📉 Stats -->
-<!-- ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbacungan&show_icons=true&theme=nord&count_private=true) -->
+#
+
+### 📉 Stats
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbacungan&show_icons=true&theme=nord&count_private=true)
