@@ -1,6 +1,6 @@
 # Rafael Bacungan
 
-<p>I'm a full-time <s>spaghetti chef</s> Software Engineer specializing in Full-Stack development. I've been exposed to various work environments from corporations, to startups. While still I'm young in my career, on top of being inherently curious, I try to continuously improve my skills as a developer by creating projects and solutions utilizing both in-demand and emerging technologies. You know, the usual self improvement stuff that devs do.</p>
+<p>I'm a full-time <s>spaghetti chef</s> Software Engineer specializing in Full-Stack development. I've been exposed to various work environments from corporations to startups. While still I'm young in my career, on top of being inherently curious, I try to continuously improve my skills as a developer by building (and breaking) solutions here using technologies best suited to my needs and interests.</p>
 
 #
 
